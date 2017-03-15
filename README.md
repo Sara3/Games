@@ -3,7 +3,6 @@ PaddleBallGame
 
 Play agianst computer AI
 
-https://cloud.githubusercontent.com/assets/6343949/23936875/a7984770-0911-11e7-9ce0-d67558939689.PNG  
-
-
-![Alt text](relative/path/to/Capture.PNG?raw=true "Title")
+<p align="center">
+  <img src="Capture.PNG" width="350"/>
+</p>
